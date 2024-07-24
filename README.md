@@ -10,4 +10,4 @@ My modified notebooks for the book Deep Learning by Python by Francois Chollet
 
 **Chapter 9** : Advanced Deep Learning for Computer Vision
 
-                [Part 1: Image Segmentation](https://github.com/Abeer-Rahman/Deep-Learning-With-Python/blob/main/Copy_of_chapter09_part01_image_segmentation_i.ipynb)
+               [Part 1:Image Segmentation](https://github.com/Abeer-Rahman/Deep-Learning-With-Python/blob/main/Copy_of_chapter09_part01_image_segmentation_i.ipynb)
